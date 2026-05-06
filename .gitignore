@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# .NET build output
+bin/
+obj/
+out/
+TestResults/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.rsuser
+
+# IDE folders
+.vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Local secrets and environment files
+.env
+.env.*
+secrets.json
